@@ -1,0 +1,9 @@
+.legal { padding: 56px 0 80px; }
+.legal__content { max-width: 720px; }
+.legal__back { color: var(--gray); font-size: 13.5px; font-weight: 600; display: inline-block; margin-bottom: 24px; }
+.legal__back:hover { color: var(--white); }
+.legal h1 { font-size: 30px; font-weight: 800; margin: 0 0 6px; }
+.legal__updated { color: var(--gray-lt); font-size: 13px; margin: 0 0 32px; }
+.legal h2 { font-size: 18px; font-weight: 700; margin: 32px 0 10px; }
+.legal p { color: var(--gray); font-size: 14.5px; line-height: 1.7; margin: 0 0 8px; }
+.legal p a { color: var(--orange); font-weight: 600; }
