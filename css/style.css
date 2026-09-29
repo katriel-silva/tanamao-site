@@ -360,12 +360,13 @@ img { max-width: 100%; display: block; }
   .nav--open {
     display: flex;
     flex-direction: column;
+    align-items: flex-start;
     position: absolute;
     top: 100%;
     left: 0; right: 0;
     background: var(--card);
     border-bottom: 1px solid var(--border);
-    padding: 16px 20px;
-    gap: 16px;
+    padding: 14px 20px;
+    gap: 10px;
   }
 }
